@@ -35,7 +35,7 @@ nav_order: 3
 ### Dayue Chen
 - Undergraduate
 
-#### Shutong Yang
+### Shutong Yang
 - Undergraduate
 
 
