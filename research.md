@@ -19,9 +19,9 @@ We develop phylogenetic and trait-based frameworks to understand microbial bioge
 
 # Funding
 Our research is supported by the following funding programs:
-- **National Key R&D Program of China/国家重点研发计划**  
+**国家重点研发计划**  
   Multidimensional patterns and spatiotemporal dynamics of forest ecosystem biodiversity
-- **Beijing Natural Science Foundation/北京市自然科学基金**  
+**北京市自然科学基金**  
   Deciphering the soil carbon puzzle: unraveling the interplay between microbial diversity, carbon diversity, and soil carbon sequestration
-- **National Science Fund for Distinguished Young Scholars (Foreign)/外国优秀青年学者研究基金项目**  
+**外国优秀青年学者研究基金项目**  
   Disentangling the dynamic interactions among soil microbes, organic matter, and the environment that promote soil development
