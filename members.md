@@ -5,26 +5,39 @@ nav_order: 3
 
 # Members
 
-## Principal Investigator
-
 ### Kazuo Isobe
-- Position: Principal Investigator
+- Principal Investigator
+- Ph.D. (The University of Tokyo, Japan)
 - Research interests: Soil microbial ecology, plant–microbe interactions, ecosystem processes
-- Email: your-email@example.com
+- Contact: kazuo.isobe[at]pku.edu.cn
 
-## Current members
+### Yue Tao
+- Postdoc (2025.09-)
+- Ph.D. (Wuhan University, China)
+- Research topic: plant-microbe interactions in deserts
 
-### Student / Postdoc name
-- Position:
-- Research topic:
-- Email:
+### Yaping Liu
+- Ph.D. student (2023.09-)
+- Research topic: microbial interactions promoting soil development
 
-### Student / Postdoc name
-- Position:
-- Research topic:
-- Email:
+### Xiangxia Yang
+- Ph.D. student (2023.09-)
+- Research topic: soil organic matter formation and stabilization
 
+### Mingming Xia
+- Ph.D. student (2024.09-)
+- Research topic: Phylogeography of microbes
+
+### Minghao Lv
+- Ph.D. student (2026.09-)
+- Research topic: plant-microbe interactions
+
+### Dayue Chen
+- Undergraduate
+
+### Shutong Yang
+- Undergraduate
+
+- 
 ## Alumni
-
-### Alumni name
-- Current position:
+Wen Guo (Postdoc, 2023.09-2025.11)
