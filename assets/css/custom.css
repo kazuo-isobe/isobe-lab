@@ -1,9 +1,40 @@
+/* Images */
+
 img {
   max-width: 100%;
   height: auto;
   border-radius: 10px;
 }
 
-.main-content h1, .main-content h2, .main-content h3 {
-  letter-spacing: 0.01em;
+/* Typography */
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+  color: #222;
+}
+
+/* Headings */
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  letter-spacing: 0.02em;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Page width (makes layout more spacious) */
+
+.main-content {
+  max-width: 900px;
+}
+
+/* Links */
+
+a {
+  color: #1a5fb4;
+}
+
+a:hover {
+  text-decoration: underline;
 }
