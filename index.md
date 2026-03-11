@@ -3,42 +3,38 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to the Isobe Lab
+# Welcome to the Isobe research group
 
 ![Lab photo or field photo](assets/images/top-placeholder.svg)
 
-We study **soil microbial ecology**, **plant–microbe interactions**, and **ecosystem processes** across natural and managed ecosystems.
 
 {: .note }
-Replace this text with a short lab introduction:
-- University / department
-- Main research themes
-- Contact information
+The Isobe Lab, based at the **Institute of Ecology, Peking University**, studies the ecology and ecosystem functions of microbes—the smallest yet most diverse and abundant organisms on Earth.
 
-## News
+Our research aims to understand and predict how **soil microbes interact with plants and the environment**, how they regulate **ecosystem processes**, and how they respond to **environmental change**. We study ecosystems ranging from **primitive desert soils** to **diverse forest ecosystems across climatic gradients**.
 
-{: .news }
-**2026-03-11** Website launched.
+Our group currently focuses on three major research themes, integrating **field observations, controlled experiments, and large-scale data analysis**:
 
-{: .news }
-**2026-03-01** New manuscript submitted.
+1. **Soil microbe–plant interactions sustaining ecosystem stability**
+2. **Soil microbe–plant interactions driving ecosystem succession**
+3. **Phylogenetic frameworks for understanding microbial biogeography and environmental responses**
 
-{: .news }
-**2026-02-15** We are recruiting graduate students and postdocs.
+## Postdoctoral position
 
-## Research highlights
+A postdoctoral position is available in the Isobe Lab at the Institute of Ecology, Peking University. We welcome highly motivated researchers from diverse backgrounds.
 
-### 1. Soil microbial succession
-Explain one main theme of your lab here.
+General information about the program can be found here:  
+https://postdocs.pku.edu.cn/zpxx/6bc7169d3e1240d18062ab42ff9c662f.htm
 
-### 2. Plant–microbe interactions
-Explain another theme here.
+Interested applicants should send the following materials by email:
 
-### 3. Biogeochemistry and ecosystem function
-Explain another theme here.
+- CV  
+- List of publications  
+- Research statement
 
 ## Contact
 
-**PI:** Kazuo Isobe  
-**Email:** your-email@example.com  
-**Affiliation:** Your department, your university
+Kazuo Isobe  
+Institute of Ecology, College of Urban and Environmental Sciences  
+Peking University  
+kazuo.isobe [at] pku.edu.cn
