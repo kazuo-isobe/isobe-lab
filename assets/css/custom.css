@@ -1,0 +1,9 @@
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.main-content h1, .main-content h2, .main-content h3 {
+  letter-spacing: 0.01em;
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600">
+  <rect width="1400" height="600" fill="#e8efe9"/>
+  <rect x="60" y="60" width="1280" height="480" rx="20" fill="#d3e3d6" stroke="#8aa08e" stroke-width="4"/>
+  <text x="700" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" fill="#35523d">
+    Replace with your lab photo
+  </text>
+  <text x="700" y="320" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#35523d">
+    assets/images/top-placeholder.svg
+  </text>
+</svg>

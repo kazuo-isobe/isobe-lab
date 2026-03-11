@@ -1,0 +1,27 @@
+title: Isobe Lab
+description: Soil microbial ecology, plant–microbe interactions, and ecosystem science
+theme: null
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://YOUR-GITHUB-USERNAME.github.io"
+baseurl: "/isobe-lab-website"
+
+search_enabled: true
+heading_anchors: true
+color_scheme: light
+
+nav_sort: case_insensitive
+aux_links:
+  GitHub:
+    - "https://github.com/YOUR-GITHUB-USERNAME/isobe-lab-website"
+
+plugins:
+  - jekyll-remote-theme
+
+callouts:
+  note:
+    title: Note
+    color: blue
+  news:
+    title: News
+    color: green
