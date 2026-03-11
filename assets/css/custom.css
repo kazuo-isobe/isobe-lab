@@ -1,38 +1,31 @@
-/* Images */
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px;
+/* Global font */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
 }
 
-/* Typography */
-
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 1.7;
-  color: #222;
+/* Improve readability of main content */
+.main-content {
+  font-size: 16px;
 }
 
 /* Headings */
-
 .main-content h1,
 .main-content h2,
 .main-content h3 {
-  letter-spacing: 0.02em;
-  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: 0.01em;
 }
 
-/* Page width (makes layout more spacious) */
-
-.main-content {
-  max-width: 900px;
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
 }
 
 /* Links */
-
 a {
-  color: #1a5fb4;
+  text-decoration: none;
 }
 
 a:hover {
