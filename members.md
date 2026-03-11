@@ -38,6 +38,6 @@ nav_order: 3
 ### Shutong Yang
 - Undergraduate
 
-- 
+
 ## Alumni
-Wen Guo (Postdoc, 2023.09-2025.11)
+Wen Guo (Postdoc, 2023.09-2025.11) Henan University
