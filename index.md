@@ -16,12 +16,11 @@ We currently focus on three major research themes, integrating field observation
 ## Postdoctoral position
 A postdoctoral position is available in the Isobe Lab at the Institute of Ecology, Peking University. We welcome highly motivated researchers from diverse backgrounds.
 
-General information about the program can be found here:
-**[PKU Postdoctoral Program Information](https://postdocs.pku.edu.cn/zpxx/6bc7169d3e1240d18062ab42ff9c662f.htm)**
+General information about the program can be found **[here](https://postdocs.pku.edu.cn/zpxx/6bc7169d3e1240d18062ab42ff9c662f.htm)**:  
 Interested applicants should send the following materials by email:
 - CV  
 - List of publications  
-- Research statement
+- Research statement  
 
 ## Contact
 Kazuo Isobe  
