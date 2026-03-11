@@ -4,11 +4,7 @@ nav_order: 1
 ---
 
 # Welcome to the Isobe research group
-
-![Lab photo or field photo](assets/images/top-placeholder.svg)
-
-
-We, based at the Institute of Ecology, Peking University, studies the ecology and ecosystem functions of microbes—the smallest yet most diverse and abundant organisms on Earth.
+Our research group at the Institute of Ecology, Peking University studies the ecology and ecosystem functions of microbes—the smallest yet most diverse and abundant organisms on Earth.
 
 Our research aims to understand and predict how soil microbes interact with plants and the environment, how they regulate ecosystem processes, and how they respond to environmental change. We study ecosystems ranging from primitive desert soils to diverse forest ecosystems across climatic gradients.
 
