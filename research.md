@@ -5,7 +5,6 @@ nav_order: 2
 
 # Research
 
-
 Our group currently focuses on three main themes, combining fieldwork, experiments, and large-scale data analysis.
 
 ### Soil microbe–plant interactions sustaining ecosystem stability
@@ -19,9 +18,9 @@ We develop phylogenetic and trait-based frameworks to understand microbial bioge
 
 # Funding
 Our research is supported by the following funding programs:
-**国家重点研发计划**  
-  Multidimensional patterns and spatiotemporal dynamics of forest ecosystem biodiversity
-**北京市自然科学基金**  
-  Deciphering the soil carbon puzzle: unraveling the interplay between microbial diversity, carbon diversity, and soil carbon sequestration
-**外国优秀青年学者研究基金项目**  
-  Disentangling the dynamic interactions among soil microbes, organic matter, and the environment that promote soil development
+**国家重点研发计划**
+Multidimensional patterns and spatiotemporal dynamics of forest ecosystem biodiversity
+**北京市自然科学基金**
+Deciphering the soil carbon puzzle: unraveling the interplay between microbial diversity, carbon diversity, and soil carbon sequestration
+**外国优秀青年学者研究基金项目**
+Disentangling the dynamic interactions among soil microbes, organic matter, and the environment that promote soil development
